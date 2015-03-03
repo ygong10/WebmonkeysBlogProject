@@ -1,0 +1,27 @@
+head, html {
+	margin: 0px;
+	padding: 0px;
+}
+body {
+	margin: 0px;
+	padding: 0px;
+	background-color: white;
+	display: inline;
+}
+
+.nav {
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+}
+.nav ul{
+	padding: 5%, 5% 5% 5%;
+	margin: 0px;
+	display: inline;
+}
+.signup {
+
+}
+a {
+	text-decoration: none;
+}
