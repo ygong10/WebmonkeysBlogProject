@@ -3,10 +3,18 @@ head, html {
 	padding: 0px;
 }
 body {
-	margin: 0px;
+	margin: 0px 0px 0px 0px;
 	padding: 0px;
-	background-color: white;
+	background-color: #1F689F;
 	display: inline;
+}
+.header {
+	padding: 0px;
+	margin: 0px;
+}
+.header h1 {
+	display: inline;
+	font-size: 32px;
 }
 
 .nav {
@@ -15,13 +23,18 @@ body {
 	margin: 0px;
 }
 .nav ul{
-	padding: 5%, 5% 5% 5%;
+	margin: 0px;
+	padding: 0px;
+	padding-right: 25%;
+	display: inline-block;
+}
+#signup {
+	padding: 80%;
+	padding-right: 0%;
 	margin: 0px;
 	display: inline;
 }
-.signup {
-
-}
 a {
 	text-decoration: none;
+	color: white;
 }
